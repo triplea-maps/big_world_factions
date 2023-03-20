@@ -1,0 +1,9 @@
+map_name: big_world_factions
+games:
+- game_name: 'Big World : 1942 - Factions'
+  file_name: big_world_factions.xml
+- game_name: 'Big World : 1942 - Factions (Allies)'
+  file_name: big_world_factions_allies.xml
+- game_name: 'Big World : 1942 - Factions (Axis)'
+  file_name: big_world_factions_axis.xml
+version: 0
